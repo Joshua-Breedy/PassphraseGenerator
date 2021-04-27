@@ -1,5 +1,5 @@
 import random
-def letterChange(passToChange): # replaces certain numbers with symbols
+def letterChange(passToChange): # replaces certain letters with symbols
     if 'i' in passToChange:
         passToChange = passToChange.replace(passToChange[passToChange.lower().find('i')], "1")
 

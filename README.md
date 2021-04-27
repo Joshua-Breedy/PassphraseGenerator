@@ -7,6 +7,7 @@
 ###     - 0 - o
 ###     - $ - s
 ###     - # - h
+
 ### Example: 
 ### grape monkey jamming
 ### Your new password is: gr@pE_m0nKey_jAmm1ng
