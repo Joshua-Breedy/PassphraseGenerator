@@ -10,5 +10,5 @@
 ###     - 3 - e
 ### Example: 
 ### grape monkey jamming
-### Your new password is: gr@p3_m0nKey_jAmm1ng
+### Your new password is: gr@p3_m0nK3y_jAmm1ng
 ### OR generates passphrase from a word bank
