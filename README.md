@@ -7,7 +7,8 @@
 ###     - 0 - o
 ###     - $ - s
 ###     - # - h
-
+###     - 3 - e
 ### Example: 
 ### grape monkey jamming
 ### Your new password is: gr@pE_m0nKey_jAmm1ng
+### OR generates passphrase from a word bank
